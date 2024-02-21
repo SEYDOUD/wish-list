@@ -1,0 +1,5 @@
+[
+    {"wishText":"Learn Angular","isComplete":false},
+    {"wishText":"Learn devops","isComplete":true},
+    {"wishText":"Learn flutter","isComplete":false}
+]
